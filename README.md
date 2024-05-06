@@ -1,4 +1,4 @@
-# MLBasics# Machine Learning Repository
+# Machine Learning Repository
 
 Welcome to the Machine Learning Repository! This repository contains a collection of Jupyter notebooks that cover various machine learning algorithms and techniques. Each notebook is designed to provide practical insights and examples of applying machine learning to solve different types of problems.
 
