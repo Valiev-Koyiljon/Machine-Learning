@@ -28,9 +28,6 @@ Welcome to the Machine Learning Repository! This repository contains a collectio
 
 - **xgboost.ipynb**: Detailed guide on using XGBoost for building high-performance models, particularly effective in competitions and scenarios with structured data.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -40,8 +37,8 @@ Please make sure to update tests as appropriate.
 
 ## Acknowledgments
 
-- Thanks to all the contributors who have helped shape this repository.
-- Special thanks to open-source communities and platforms that provide learning and collaboration opportunities.
+- Kudos to Kaggle Machine Learning Course
+- Kudos to Machine Learning Specialization Course (DeepLearning.ai) 
 
 Thank you for visiting this repository, and happy learning!
 
